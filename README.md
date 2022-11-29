@@ -14,6 +14,6 @@ I used the [Cardiovascular Disease dataset by Svetlana Ulianova](https://www.kag
 The data required pre-processing which is discussed in the code section. Following are the results of various classification models that were built to predict the outcome.
 
 
-![Comparision analysis]()
+![Comparision analysis](https://github.com/pranjal-dave/CVD-Prediction/blob/main/model%20comp.png)
 
-![Result analysis]()
+![Result analysis](https://github.com/pranjal-dave/CVD-Prediction/blob/main/result%20comp.png)
